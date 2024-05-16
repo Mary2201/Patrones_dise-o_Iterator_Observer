@@ -1,1 +1,1 @@
-# Patrones_dise-o_Iterator_Observer
+# Patrones diseño Iterator y Observer
